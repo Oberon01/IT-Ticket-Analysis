@@ -1,0 +1,17 @@
+# Raw (non-anonymized) source data
+data/raw/BMSC_Closed.csv
+data/raw/BMSC*Closed*.csv
+!data/raw/BMSC_Closed_anonymized.csv
+
+# Anonymization mapping files
+data/private/
+
+# R session/environment files
+.Rhistory
+.Rdata
+.Rproj.user/
+*.Rproj
+
+# OS files
+.DS_Store
+Thumbs.db
