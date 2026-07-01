@@ -90,7 +90,7 @@ source("anonymize.R")
 ## Report
 
 Full written report with figures, statistical interpretation, and recommendations:
-[`outputs/BMSC_Ticket_Analysis_Report.docx`](outputs/BMSC_Ticket_Analysis_Report.docx)
+[`outputs/Ticket_Analysis_Report.docx`](outputs/Ticket_Analysis_Report.docx)
 
 ---
 
